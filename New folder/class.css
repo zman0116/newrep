@@ -1,0 +1,10 @@
+p{
+	transition: all 5s ease;
+	margin: 0;
+}
+.bigger{
+	font-size: 300px;
+}
+.bgcoloe{
+	background-color: dodgerblue;
+}
