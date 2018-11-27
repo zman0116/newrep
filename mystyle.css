@@ -1,15 +1,17 @@
 div.div1 {
 
     float: left;
-    height: 400px;
-    margin-right: 10px;
-    width: 200px;
+    height: 700px;
+    margin-right: 20px;
+    width: 400px;
+    background-color: green
 }
 
 div.div3 {
    
-    height: 425px;
+    height: 700px;
     overflow: hidden;
+    background-color: red
 }
 
 div.div2 {
@@ -17,5 +19,6 @@ div.div2 {
     clear: left;
     float: left;
     height: 15px;
-    margin-top: 10px;
+    margin-top: 20px;
+    background-color: blue
 }
