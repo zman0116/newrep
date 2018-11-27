@@ -1,0 +1,21 @@
+div.div1 {
+
+    float: left;
+    height: 400px;
+    margin-right: 10px;
+    width: 200px;
+}
+
+div.div3 {
+   
+    height: 425px;
+    overflow: hidden;
+}
+
+div.div2 {
+   
+    clear: left;
+    float: left;
+    height: 15px;
+    margin-top: 10px;
+}
