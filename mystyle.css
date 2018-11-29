@@ -1,16 +1,28 @@
-div.div1 {
-
-    float: left;
-    height: 700px;
-    margin-right: 20px;
-    width: 400px;
-    background-color: green
+#title{
+  font-family:arial;
+  font-weight:bold;
+  font-size:32px;
+  text-align:center;
+}
+  
+#subtitle{
+  font-family:arial;
+  font-size:25px;
+  font-weight:bold;
+  text-align:center;
 }
 
-div.div2 {
-   
-    height: 700px;
-    overflow: hidden;
-    background-color: red
+.decklist{
+ width:30%;
+ min-height: 100px;
+  display: inline-block;
+ border-style:solid;
+  font-family:arial;
+  font-size:20px;
+  font-weight:bold;
+  background:gray;
 }
+
+
+
 
