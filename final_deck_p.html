@@ -6,10 +6,31 @@
 	<link rel="stylesheet" type="text/css" href="mystyle.css">
 
 </head>
-<body>
+
+<style>
+body {
+    -webkit-animation: colorchange 60s infinite; 
+    animation: colorchange 60s infinite;
+}
+@-webkit-keyframes colorchange {
+     0%  {background: #FF7F50;}
+    25%  {background: #00FF7F;}
+    50%  {background: #117A65;}
+    75%  {background: #DC143C ;}
+    100% {background: #9B59B6;}
+}
+@keyframes colorchange {
+     0%  {background: #FF7F50;}
+    25%  {background: #00FF7F;}
+    50%  {background: #117A65;}
+    75%  {background: #DC143C;}
+    100% {background: #9B59B6;}
+}   
+</style>
+
 
 <div id="subtitle">
-	decklist
+	deck name
 <li><a href="home.html">home</a></li>
 </div>
 
