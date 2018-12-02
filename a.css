@@ -1,0 +1,36 @@
+*{
+	color: white;
+}
+
+h1{
+	font-family: 'Righteous', cursive;
+	padding-left: -100px;
+}
+h3{
+	font-family: 'Righteous', cursive;
+	padding-left: 420px;
+}
+h6{
+	font-family: 'Noto Serif JP', sans-serif;
+	text-align: center;
+}
+body{
+	background-color: blue;
+}
+
+
+	
+}
+p{
+	text-align: left;
+	font-family: 'serif';
+	padding-left: 100px;
+	padding-right: 675px;
+	padding-bottom: 10px;
+	text-indent: 40px;
+	margin-top: 10px;
+	margin-bottom: 0;
+	line-height: 30px;
+	letter-spacing: 1.5px;
+}
+
