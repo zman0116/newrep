@@ -1,0 +1,42 @@
+
+
+
+
+p {
+	font-size: 20px;
+	font-family: 'Roboto', sans-serif;
+	margin-right: 400px;
+	margin-left: 400px;
+	letter-spacing: .75px;
+	line-height: 1.4em;
+	/*letter-spacing: in px, em, etc*/
+	color: white;
+	
+}
+
+
+
+
+
+
+}
+.topText{
+
+	margin-top: 70px;
+
+}
+
+.bottomText{
+
+	margin-bottom: 70px;
+}
+.link{
+
+	margin-bottom: 75px;
+}
+.centeredText{
+
+	margin-top: 350px;
+	text-align: center;
+}
+

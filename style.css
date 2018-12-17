@@ -1,5 +1,5 @@
 body {
-    background-color:#E1B297;
+    background-color:pink;
 }
 
 h1 {
@@ -12,23 +12,23 @@ h1 {
 
 .five{
     text-align: center;
-	text-decoration-color: red;
+	text-decoration-color: green;
     height:100px;
-	width:400px;
+	width:300px;
     border-width:10px;
     border-radius:10px;
-    background-color:red;
+    background-color:blue;
 	padding: 10px;
 }
 
 .four{
     text-align: center;
-	text-decoration-color: green;
+	text-decoration-color: red;
     height:100px;
-	width:400px;
+	width:300px;
     border-width:10px;
     border-radius:10px;
-    background-color:#D9D627;
+    background-color:red;
 	padding: 10px;
 }
 
@@ -36,10 +36,10 @@ h1 {
      text-align: center;
 	text-decoration-color: pink;
     height:100px;
-	width:400px;
+	width:300px;
     border-width:10px;
     border-radius:10px;
-    background-color:#432DB5;
+    background-color:salmon;
 	padding: 10px;
 }
 
@@ -47,10 +47,10 @@ h1 {
     text-align: center;
 	text-decoration-color: purple;
     height:100px;
-	width:400px;
+	width:300px;
     border-width:10px;
     border-radius:10px;
-    background-color:#693245;
+    background-color:purple;
 	padding: 10px;
 }
 
@@ -58,7 +58,7 @@ h1 {
       text-align: center;
 	text-decoration-color: ;
     height:100px;
-	width:400px;
+	width:300px;
     border-width:10px;
     border-radius:10px;
     background-color:#9DF354;
@@ -66,7 +66,7 @@ h1 {
 }
 
 p {
-    font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+    font-family:sans-serif;
     display:none;
 	text-decoration-color: #FF0308;
 
